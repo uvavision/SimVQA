@@ -24,7 +24,7 @@ Paola Cascante-Bonilla, Hui Wu, Letao Wang, Rogerio Feris, Vicente Ordonez. -->
   <img src="https://www.cs.rice.edu/~pc51/simvqa/images/drum_air_id.png"  width="250">
 </p>
 
-### We explore using synthetic computer-generated data to fully control the visual and language space, allowing us to provide more diverse scenarios for VQA. By exploiting 3D and physics simulation platforms, we provide a pipeline to generate synthetic data to expand and replace type-specific questions and answers without risking the exposure of sensitive or personal data that might be present in real images. We quantify the effect of synthetic data in real-world VQA benchmarks and to which extent it produces results that generalize to real data.
+ We explore using synthetic computer-generated data to fully control the visual and language space, allowing us to provide more diverse scenarios for VQA. By exploiting 3D and physics simulation platforms, we provide a pipeline to generate synthetic data to expand and replace type-specific questions and answers without risking the exposure of sensitive or personal data that might be present in real images. We quantify the effect of synthetic data in real-world VQA benchmarks and to which extent it produces results that generalize to real data.
 
 <br/>
 
