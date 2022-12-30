@@ -2,7 +2,7 @@
 <!-- ## [[CVPR22] SimVQA: Exploring Simulated Environments for Visual Question Answering.](https://arxiv.org/abs/2203.17219)
 Paola Cascante-Bonilla, Hui Wu, Letao Wang, Rogerio Feris, Vicente Ordonez. -->
 
-<h1 align="center"><a href="https://arxiv.org/abs/2203.17219"> :saxophone: SimVQA: Exploring Simulated Environments<br> for Visual Question Answering</a></h1>
+<h1 align="center"><a href="https://arxiv.org/abs/2203.17219"> :saxophone:SimVQA: Exploring Simulated Environments<br> for Visual Question Answering</a></h1>
 <h3 align="center"><a href="https://paolacascante.com/">Paola Cascante-Bonilla</a>, <a href="https://www.spacewu.com/">Hui Wu</a>, <a href="https://dw61.github.io/">Letao Wang</a>, <a href="https://www.rogerioferis.org/">Rogerio Feris</a>, <a href="https://www.cs.rice.edu/~vo9/">Vicente Ordonez</a></h3>
 <h4 align="center"><a href="https://www.rice.edu/">Rice University</a>  •  <a href="https://mitibmwatsonailab.mit.edu/">MIT-IBM Watson AI Lab</a>  •  <a href="https://www.virginia.edu/">University of Virginia</a></h4>
 <h5 align="center">In the 33th IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).</h5> 
@@ -19,13 +19,14 @@ Paola Cascante-Bonilla, Hui Wu, Letao Wang, Rogerio Feris, Vicente Ordonez. -->
 ## About
 
 <p align="center">
-  <img src="https://www.cs.rice.edu/~pc51/simvqa/images/showcase_reversed.gif"  width="250">
+  <img src="https://github.com/uvavision/SimVQA/blob/main/img/showcase_reversed.gif?raw=true"  width="250">
   <img src="https://www.cs.rice.edu/~pc51/simvqa/images/drum_air2.png"  width="250">
   <img src="https://www.cs.rice.edu/~pc51/simvqa/images/drum_air_id.png"  width="250">
 </p>
 
  We explore using synthetic computer-generated data to fully control the visual and language space, allowing us to provide more diverse scenarios for VQA. By exploiting 3D and physics simulation platforms, we provide a pipeline to generate synthetic data to expand and replace type-specific questions and answers without risking the exposure of sensitive or personal data that might be present in real images. We quantify the effect of synthetic data in real-world VQA benchmarks and to which extent it produces results that generalize to real data.
 
+Project page: [https://www.cs.rice.edu/~pc51/simvqa/](https://www.cs.rice.edu/~pc51/simvqa/)
 
 <br/>
 
