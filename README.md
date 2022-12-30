@@ -26,6 +26,7 @@ Paola Cascante-Bonilla, Hui Wu, Letao Wang, Rogerio Feris, Vicente Ordonez. -->
 
  We explore using synthetic computer-generated data to fully control the visual and language space, allowing us to provide more diverse scenarios for VQA. By exploiting 3D and physics simulation platforms, we provide a pipeline to generate synthetic data to expand and replace type-specific questions and answers without risking the exposure of sensitive or personal data that might be present in real images. We quantify the effect of synthetic data in real-world VQA benchmarks and to which extent it produces results that generalize to real data.
 
+
 <br/>
 
 ## Requirements
@@ -36,8 +37,9 @@ Paola Cascante-Bonilla, Hui Wu, Letao Wang, Rogerio Feris, Vicente Ordonez. -->
 - torchcontrib
 - spacy >= 2.0.18
 - numpy >= 1.16.2
-- initialize GloVe vectors: `wget https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz -O en_vectors_web_lg-2.1.0.tar.gz` and then `pip install en_vectors_web_lg-2.1.0.tar.gz`
+- initialize GloVe vectors: `wget https://github.com/explosion/spacy-models/releases/download/en_vectors_web_lg-2.1.0/en_vectors_web_lg-2.1.0.tar.gz -O en_vectors_web_lg-2.1.0.tar.gz` and then `pip install en_vectors_web_lg-2.1.0.tar.gz` <br>
 
+*Please note: the base work of this repository is built on top of the amazing work of Zhou Yu et al. with their [Deep Modular Co-Attention Networks for Visual Question Answering](https://github.com/MILVLG/mcan-vqa) public implementation.*
 
 <br/>
 
